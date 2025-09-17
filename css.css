@@ -1,0 +1,110 @@
+
+#topbar
+{
+    background-color:black;
+    height: 10px;
+    width: 100%;
+
+}
+body
+{
+background-color: white;
+}
+#container
+{
+    background-color: white;
+    height: 700px;
+    width: 70%;
+    margin: 0px auto;
+}
+#header
+{
+    height: 90px;
+    background-color: white;
+}
+#header img
+{
+    height: 80px;
+}
+#create
+{
+ text-align: 10px;
+    
+}
+#name
+{
+    font-family: Arial ;
+    font-size: 25px;
+    margin-right: 20%;
+    margin-top: 1%;
+    text-align: center;
+}
+#header ul
+{
+    float: right;
+    margin-top: 25px;
+}
+#header ul li
+{
+    display:inline;
+    margin-right: 25px;
+}
+#header ul li a
+{
+    color: brown;
+    text-decoration: none;
+    font-size: 20px;
+}
+#banner img
+{
+    width: 100%;
+    padding-bottom: 20px;
+}
+#content1
+{
+    width: 250px;
+    height: 300px;
+    background-color:yellowgreen;
+    float: left;
+    margin-right: 8%;
+}
+#content2
+{
+    width: 250px;
+    height: 300px;
+    background-color:green;
+    float: left;
+    margin-right: 7%;
+}
+.heading
+{
+    color: white;
+    margin-left: 30px;
+    font-size: 28px;
+}
+.para
+{
+    color: white;
+    margin-left: 20px;
+    font-size: 19px;
+    text-align:left;
+}
+.heading
+{
+    color: white;
+    margin-left: 30px;
+    font-size: 28px;
+}
+.para
+{
+    color: white;
+    margin-left: 20px;
+    margin-right: 7px;
+    font-size: 19px;
+    text-align:left;
+}
+#button
+{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
